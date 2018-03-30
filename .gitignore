@@ -1,0 +1,34 @@
+/.project
+[Oo]bj/
+[Bb]in/
+*.suo
+*.user
+*.vspscc
+*.vssscc
+*.scc
+*.SCC
+[Tt]humbs.db
+_transfer/
+
+# Visual Basic Temporary files
+*.vbw
+/.gitattributes
+
+# NUGET Pakete
+.nuget/
+packages/
+!packages/repositories.config
+
+# SonarQube Stuff
+.sonar/
+sonar-project.properties
+
+#ingore build dir
+dist/
+
+# ignore node modules
+node_modules/
+
+#ignore webstorm configs
+*.iml
+.idea
